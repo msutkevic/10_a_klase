@@ -1,0 +1,14 @@
+<html>
+<boby>
+<h1>Cetrudiena</h1>
+<h2>Ģeografija<h2/>
+<h3>Krievu valoda</h3>
+<4h>Programmēšana
+Programmēšana
+</4h>
+<5h>Fizika</5h>
+<6h>Latviešvaloda</h6>
+<7h>Angļu valoda</h7>
+<8h>#0000FF</8h>
+<boby>
+<html>

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<boby>
+<title>Guča Food</titile>
+</head>
+<body>
+<img src="https://i.receptes.tvnet.lv/t/2017/01/03/17201/940x550.jpg"alt="Trulli" width="200" height="250">
+<img src="http://tureka.lv/wp-content/uploads/2014/07/Turek%C4%81-Burgeris.jpg" alt="Trulli" width="200" height="200">
